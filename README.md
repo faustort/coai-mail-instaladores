@@ -9,8 +9,8 @@ Este repositório existe só para **distribuir** o app: os instaladores ficam em
 
 **[Baixar a versão mais recente](https://github.com/faustort/coai-mail-instaladores/releases/latest/download/CorrigeAi-Mail-Setup.exe)** · `CorrigeAi-Mail-Setup.exe`
 
-O link acima sempre aponta para a última versão estável. Versões anteriores estão em
-[Releases](https://github.com/faustort/coai-mail-instaladores/releases).
+O link acima sempre aponta para a última versão **estável**. Enquanto só houver versões de teste (`-rc`),
+baixe pela página de [Releases](https://github.com/faustort/coai-mail-instaladores/releases) (a mais nova fica no topo) ou pelo site, em **Minha conta › Baixar os apps**.
 
 > Para usar o app é preciso uma assinatura ativa em [corrigeai.nw2.com.br](https://corrigeai.nw2.com.br/).
 > Entre no app com o mesmo e-mail e a mesma senha da sua conta no site.

@@ -7,6 +7,6 @@ Versões `-rc.N` são de teste: saem como *pre-release* e só chegam a quem liga
 
 - Primeira versão estável pública em preparação.
 
-## [1.2.0-rc.7] — teste interno (não publicada aqui)
+## [1.2.0-rc.7] — 2026-11-03 · versão de teste (pre-release)
 
-- Versão de validação usada antes da abertura deste repositório.
+- Primeira versão publicada neste repositório, para testadores.
