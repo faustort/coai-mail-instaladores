@@ -1,0 +1,8 @@
+# Este repositório guarda SÓ documentação. Os instaladores (.exe, 140–210 MB) vão nas
+# Releases do GitHub — o git recusa arquivos acima de 100 MB e o atualizador lê as Releases.
+# Lista de permissão: tudo é ignorado, exceto o que está liberado abaixo.
+*
+!.gitignore
+!README.md
+!CHANGELOG.md
+!PUBLICAR.md
